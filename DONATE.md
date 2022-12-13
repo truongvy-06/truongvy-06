@@ -38,7 +38,7 @@
 </tr>
 <tr>
 <td align="center"><a href="https://zalopay.vn/" rel="nofollow"><img src="https://camo.githubusercontent.com/c7d24fb47a3d3dce0bae3edf6c3195c15073aff3da31bb37a5decbf67fa8d39e/68747470733a2f2f74687574687561746d617974696e682e766e2f77702d636f6e74656e742f75706c6f6164732f323031392f30322f5a616c6f5061792d6c6f676f2e706e67" alt="drawing" width="50" data-canonical-src="https://thuthuatmaytinh.vn/wp-content/uploads/2019/02/ZaloPay-logo.png" style="max-width: 100%;"><p dir="auto">ZaloPay</p></a></td>
-<td align="center"><code>0765423185</code></td>
+<td align="center"><code>0918327827</code></td>
 <td align="right">TRUONG VY</td>
 <td align="center"><details><summary>Click to open</summary><a target="_blank" rel="noopener noreferrer" href="img/ZALOPAY.jpg"><img src="img/ZALOPAY.jpg" width="300" style="max-width: 100%;"></a></details></td>
 </tr>
