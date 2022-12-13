@@ -10,14 +10,14 @@
 <p dir="auto">You can <strong>scan QR Code</strong> to make donation progress faster.</p>
 </li>
 <li>
-<p dir="auto">Or contact me: <a href="[https:facebook.com/vyx.006](https://www.facebook.com/vyx.006)" rel="nofollow">Facebook</a></p>
+<p dir="auto">Or contact me: <a href="https://www.facebook.com/vyx.006" rel="nofollow">Facebook</a></p>
 </li>
 </ul>
 <p dir="auto"><em>Tiếng việt:</em> <g-emoji class="g-emoji" alias="two_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f495.png">💕</g-emoji></p>
 <ul dir="auto">
 <li>Donate bằng cách <strong>chuyển tiền</strong> tới các tài khoản của mình bên dưới.</li>
 <li>Bạn có thể <strong>quét mã QR</strong> ở cột QR Code để nhập thông tin nhanh hơn.</li>
-<li>Hoặc liên hệ trực tiếp với mình: <a href="https:facebook.com/vyx.006" rel="nofollow">Facebook</a></li>
+<li>Hoặc liên hệ trực tiếp với mình: <a href="https://www.facebook.com/vyx.006" rel="nofollow">Facebook</a></li>
 </ul>
 <table>
 <thead>
